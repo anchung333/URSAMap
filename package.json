@@ -1,0 +1,39 @@
+{
+  "name": "ursamap",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -d --watch",
+    "convertzips": "node ./helpers/getZipCodeCoordinates.js"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hull.js": "^1.0.0",
+    "mapbox-gl": "^1.10.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "keywords": [],
+  "author": "Andy Chung",
+  "license": "ISC"
+}

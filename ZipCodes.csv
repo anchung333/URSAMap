@@ -1,0 +1,587 @@
+name,zipcode
+Alameda,94501
+Alameda,94502
+Alameda,94514
+Alameda,94536
+Alameda,94538
+Alameda,94539
+Alameda,94540
+Alameda,94541
+Alameda,94542
+Alameda,94544
+Alameda,94545
+Alameda,94546
+Alameda,94550
+Alameda,94551
+Alameda,94552
+Alameda,94555
+Alameda,94560
+Alameda,94566
+Alameda,94568
+Alameda,94577
+Alameda,94578
+Alameda,94579
+Alameda,94580
+Alameda,94586
+Alameda,94587
+Alameda,94588
+Alameda,94601
+Alameda,94602
+Alameda,94603
+Alameda,94605
+Alameda,94606
+Alameda,94607
+Alameda,94608
+Alameda,94609
+Alameda,94610
+Alameda,94611
+Alameda,94612
+Alameda,94613
+Alameda,94618
+Alameda,94619
+Alameda,94621
+Alameda,94660
+Alameda,94661
+Alameda,94701
+Alameda,94702
+Alameda,94703
+Alameda,94704
+Alameda,94705
+Alameda,94706
+Alameda,94707
+Alameda,94708
+Alameda,94709
+Alameda,94710
+Alameda,94720
+Alameda,95391
+San Francisco,94102
+San Francisco,94103
+San Francisco,94104
+San Francisco,94105
+San Francisco,94107
+San Francisco,94108
+San Francisco,94109
+San Francisco,94110
+San Francisco,94111
+San Francisco,94112
+San Francisco,94113
+San Francisco,94114
+San Francisco,94115
+San Francisco,94116
+San Francisco,94117
+San Francisco,94118
+San Francisco,94121
+San Francisco,94122
+San Francisco,94123
+San Francisco,94124
+San Francisco,94126
+San Francisco,94127
+San Francisco,94131
+San Francisco,94132
+San Francisco,94133
+San Francisco,94134
+San Francisco,94139
+San Francisco,94143
+San Francisco,94151
+San Francisco,94158
+San Francisco,94159
+San Francisco,94177
+San Francisco,94188
+Alameda County - H2O,55555
+Marin,94901
+Marin,94903
+Marin,94904
+Marin,94920
+Marin,94925
+Marin,94930
+Marin,94939
+Marin,94941
+Marin,94942
+Marin,94945
+Marin,94947
+Marin,94949
+Marin,94960
+Marin,94964
+Marin,94965
+Marin,94966
+Los Angeles,90001
+Los Angeles,90004
+Los Angeles,90005
+Los Angeles,90006
+Los Angeles,90007
+Los Angeles,90008
+Los Angeles,90010
+Los Angeles,90011
+Los Angeles,90012
+Los Angeles,90013
+Los Angeles,90014
+Los Angeles,90015
+Los Angeles,90016
+Los Angeles,90017
+Los Angeles,90018
+Los Angeles,90019
+Los Angeles,90020
+Los Angeles,90021
+Los Angeles,90022
+Los Angeles,90023
+Los Angeles,90024
+Los Angeles,90025
+Los Angeles,90026
+Los Angeles,90027
+Los Angeles,90028
+Los Angeles,90029
+Los Angeles,90030
+Los Angeles,90031
+Los Angeles,90032
+Los Angeles,90033
+Los Angeles,90034
+Los Angeles,90035
+Los Angeles,90036
+Los Angeles,90037
+Los Angeles,90038
+Los Angeles,90039
+Los Angeles,90040
+Los Angeles,90041
+Los Angeles,90042
+Los Angeles,90043
+Los Angeles,90044
+Los Angeles,90045
+Los Angeles,90046
+Los Angeles,90047
+Los Angeles,90048
+Los Angeles,90049
+Los Angeles,90050
+Los Angeles,90053
+Los Angeles,90054
+Los Angeles,90055
+Los Angeles,90056
+Los Angeles,90057
+Los Angeles,90059
+Los Angeles,90060
+Los Angeles,90062
+Los Angeles,90063
+Los Angeles,90064
+Los Angeles,90065
+Los Angeles,90066
+Los Angeles,90067
+Los Angeles,90068
+Los Angeles,90069
+Los Angeles,90070
+Los Angeles,90071
+Los Angeles,90072
+Los Angeles,90073
+Los Angeles,90074
+Los Angeles,90075
+Los Angeles,90076
+Los Angeles,90077
+Los Angeles,90078
+Los Angeles,90079
+Los Angeles,90080
+Los Angeles,90081
+Los Angeles,90083
+Los Angeles,90084
+Los Angeles,90086
+Los Angeles,90087
+Los Angeles,90088
+Los Angeles,90089
+Los Angeles,90090
+Los Angeles,90093
+Los Angeles,90094
+Los Angeles,90095
+Los Angeles,90099
+Los Angeles,90134
+Los Angeles,90189
+Los Angeles,90209
+Los Angeles,90210
+Los Angeles,90211
+Los Angeles,90212
+Los Angeles,90213
+Los Angeles,90230
+Los Angeles,90231
+Los Angeles,90232
+Los Angeles,90233
+Los Angeles,90245
+Los Angeles,90290
+Los Angeles,90291
+Los Angeles,90292
+Los Angeles,90293
+Los Angeles,90294
+Los Angeles,90295
+Los Angeles,90296
+Los Angeles,90401
+Los Angeles,90402
+Los Angeles,90403
+Los Angeles,90404
+Los Angeles,90405
+Los Angeles,90406
+Los Angeles,90407
+Los Angeles,90408
+Los Angeles,90409
+Los Angeles,90410
+Los Angeles,90411
+Los Angeles,91001
+Los Angeles,91011
+Los Angeles,91020
+Los Angeles,91040
+Los Angeles,91041
+Los Angeles,91042
+Los Angeles,91043
+Los Angeles,91046
+Los Angeles,91101
+Los Angeles,91102
+Los Angeles,91103
+Los Angeles,91104
+Los Angeles,91105
+Los Angeles,91106
+Los Angeles,91107
+Los Angeles,91108
+Los Angeles,91109
+Los Angeles,91110
+Los Angeles,91114
+Los Angeles,91115
+Los Angeles,91116
+Los Angeles,91117
+Los Angeles,91121
+Los Angeles,91123
+Los Angeles,91124
+Los Angeles,91125
+Los Angeles,91126
+Los Angeles,91129
+Los Angeles,91182
+Los Angeles,91184
+Los Angeles,91185
+Los Angeles,91188
+Los Angeles,91189
+Los Angeles,91199
+Los Angeles,91201
+Los Angeles,91202
+Los Angeles,91204
+Los Angeles,91205
+Los Angeles,91206
+Los Angeles,91207
+Los Angeles,91208
+Los Angeles,91209
+Los Angeles,91210
+Los Angeles,91214
+Los Angeles,91221
+Los Angeles,91222
+Los Angeles,91224
+Los Angeles,91225
+Los Angeles,91226
+Los Angeles,91301
+Los Angeles,91302
+Los Angeles,91303
+Los Angeles,91304
+Los Angeles,91305
+Los Angeles,91306
+Los Angeles,91307
+Los Angeles,91308
+Los Angeles,91309
+Los Angeles,91311
+Los Angeles,91313
+Los Angeles,91316
+Los Angeles,91319
+Los Angeles,91320
+Los Angeles,91324
+Los Angeles,91325
+Los Angeles,91326
+Los Angeles,91327
+Los Angeles,91328
+Los Angeles,91329
+Los Angeles,91330
+Los Angeles,91331
+Los Angeles,91334
+Los Angeles,91335
+Los Angeles,91337
+Los Angeles,91340
+Los Angeles,91341
+Los Angeles,91342
+Los Angeles,91343
+Los Angeles,91344
+Los Angeles,91345
+Los Angeles,91352
+Los Angeles,91353
+Los Angeles,91356
+Los Angeles,91357
+Los Angeles,91358
+Los Angeles,91359
+Los Angeles,91361
+Los Angeles,91364
+Los Angeles,91365
+Los Angeles,91367
+Los Angeles,91371
+Los Angeles,91372
+Los Angeles,91377
+Los Angeles,91392
+Los Angeles,91394
+Los Angeles,91396
+Los Angeles,91401
+Los Angeles,91402
+Los Angeles,91403
+Los Angeles,91404
+Los Angeles,91405
+Los Angeles,91406
+Los Angeles,91407
+Los Angeles,91408
+Los Angeles,91409
+Los Angeles,91410
+Los Angeles,91411
+Los Angeles,91412
+Los Angeles,91413
+Los Angeles,91416
+Los Angeles,91423
+Los Angeles,91426
+Los Angeles,91436
+Los Angeles,91470
+Los Angeles,91482
+Los Angeles,91495
+Los Angeles,91496
+Los Angeles,91499
+Los Angeles,91501
+Los Angeles,91502
+Los Angeles,91503
+Los Angeles,91504
+Los Angeles,91505
+Los Angeles,91506
+Los Angeles,91507
+Los Angeles,91508
+Los Angeles,91510
+Los Angeles,91521
+Los Angeles,91522
+Los Angeles,91526
+Los Angeles,91601
+Los Angeles,91602
+Los Angeles,91603
+Los Angeles,91604
+Los Angeles,91605
+Los Angeles,91606
+Los Angeles,91607
+Los Angeles,91608
+Los Angeles,91609
+Los Angeles,91610
+Los Angeles,91611
+Los Angeles,91612
+Los Angeles,91614
+Los Angeles,91615
+Los Angeles,91616
+Los Angeles,91617
+Los Angeles,91618
+Los Angeles,92523
+Los Angeles,93012
+Vallejo,94589
+Vallejo,94590
+Vallejo,94591
+Vallejo,94592
+Humboldt,95501
+Humboldt,95503
+Humboldt,95519
+Humboldt,95521
+Humboldt,95524
+Humboldt,95534
+Humboldt,95564
+Humboldt,95570
+Event 4/20,42000
+Sacramento,94203
+Sacramento,94204
+Sacramento,94205
+Sacramento,94206
+Sacramento,94207
+Sacramento,94208
+Sacramento,94209
+Sacramento,94211
+Sacramento,94229
+Sacramento,94230
+Sacramento,94232
+Sacramento,94234
+Sacramento,94235
+Sacramento,94236
+Sacramento,94237
+Sacramento,94239
+Sacramento,94240
+Sacramento,94244
+Sacramento,94245
+Sacramento,94247
+Sacramento,94248
+Sacramento,94249
+Sacramento,94250
+Sacramento,94252
+Sacramento,94254
+Sacramento,94256
+Sacramento,94257
+Sacramento,94258
+Sacramento,94259
+Sacramento,94261
+Sacramento,94262
+Sacramento,94263
+Sacramento,94267
+Sacramento,94268
+Sacramento,94269
+Sacramento,94271
+Sacramento,94273
+Sacramento,94274
+Sacramento,94277
+Sacramento,94278
+Sacramento,94279
+Sacramento,94280
+Sacramento,94282
+Sacramento,94283
+Sacramento,94284
+Sacramento,94285
+Sacramento,94287
+Sacramento,94288
+Sacramento,94289
+Sacramento,94290
+Sacramento,94291
+Sacramento,94293
+Sacramento,94294
+Sacramento,94295
+Sacramento,94296
+Sacramento,94297
+Sacramento,94298
+Sacramento,94299
+Sacramento,95608
+Sacramento,95616
+Sacramento,95618
+Sacramento,95628
+Sacramento,95662
+Sacramento,95695
+Sacramento,95811
+Sacramento,95814
+Sacramento,95815
+Sacramento,95816
+Sacramento,95817
+Sacramento,95818
+Sacramento,95819
+Sacramento,95820
+Sacramento,95821
+Sacramento,95822
+Sacramento,95823
+Sacramento,95824
+Sacramento,95825
+Sacramento,95826
+Sacramento,95827
+Sacramento,95828
+Sacramento,95831
+Sacramento,95833
+Sacramento,95834
+Sacramento,95835
+Sacramento,95838
+Sacramento,95851
+Sacramento,95852
+Sacramento,95853
+Sacramento,95860
+Sacramento,95864
+Sacramento,95865
+Sacramento,95866
+Sacramento,95867
+Sacramento,95894
+Sacramento,95621
+LA South Bay,90247
+LA South Bay,90248
+LA South Bay,90249
+LA South Bay,90250
+LA South Bay,90251
+LA South Bay,90254
+LA South Bay,90260
+LA South Bay,90261
+LA South Bay,90266
+LA South Bay,90267
+LA South Bay,90277
+LA South Bay,90278
+LA South Bay,90301
+LA South Bay,90302
+LA South Bay,90303
+LA South Bay,90304
+LA South Bay,90305
+LA South Bay,90306
+LA South Bay,90307
+LA South Bay,90308
+LA South Bay,90309
+LA South Bay,90310
+LA South Bay,90311
+LA South Bay,90312
+LA South Bay,90501
+LA South Bay,90503
+LA South Bay,90504
+LA South Bay,90505
+LA South Bay,90506
+LA South Bay,90507
+LA South Bay,90508
+LA South Bay,90509
+LA South Bay,90510
+LA South Bay,90712
+LA South Bay,90715
+LA South Bay,90716
+LA South Bay,90731
+LA South Bay,90740
+LA South Bay,90755
+LA South Bay,90801
+LA South Bay,90802
+LA South Bay,90803
+LA South Bay,90804
+LA South Bay,90805
+LA South Bay,90806
+LA South Bay,90807
+LA South Bay,90808
+LA South Bay,90809
+LA South Bay,90810
+LA South Bay,90812
+LA South Bay,90813
+LA South Bay,90814
+LA South Bay,90815
+LA South Bay,90822
+LA South Bay,90831
+LA South Bay,90832
+LA South Bay,90833
+LA South Bay,90834
+LA South Bay,90835
+LA South Bay,90840
+LA South Bay,90842
+LA South Bay,90844
+LA South Bay,90846
+LA South Bay,90847
+LA South Bay,90848
+LA South Bay,90853
+LA South Bay,90899
+Peninsula,94002
+Peninsula,94005
+Peninsula,94010
+Peninsula,94011
+Peninsula,94014
+Peninsula,94015
+Peninsula,94017
+Peninsula,94020
+Peninsula,94022
+Peninsula,94023
+Peninsula,94024
+Peninsula,94025
+Peninsula,94026
+Peninsula,94027
+Peninsula,94028
+Peninsula,94039
+Peninsula,94040
+Peninsula,94041
+Peninsula,94042
+Peninsula,94043
+Peninsula,94062
+Peninsula,94063
+Peninsula,94065
+Peninsula,94070
+Peninsula,94085
+Peninsula,94301
+Peninsula,94302
+Peninsula,94303
+Peninsula,94304
+Peninsula,94306
+Peninsula,94403
+Peninsula,94404
+Peninsula,94087
+Peninsula,94030
+Peninsula,94066
+Peninsula,94080
+Peninsula,94086
+Peninsula,94305
+Peninsula,94402
+Peninsula,94401
+Peninsula,94309
+Peninsula,94089

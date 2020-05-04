@@ -1,0 +1,26 @@
+.mapContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+/* .mapboxgl-marker {
+  background-image: url('https://i7.pngguru.com/preview/356/849/68/mallory-square-tunisia-fhcn-location-learning-location-icon.jpg');
+  background-color: lightblue;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+} */
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
