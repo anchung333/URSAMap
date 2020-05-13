@@ -30,6 +30,7 @@
 
 .zipCheckContainer {
   position: relative;
+  display: inline-block;
   margin: auto;
   padding: 5px;
   width: 50%;
@@ -37,12 +38,14 @@
 
 #map {
   text-align: center;
-  background-color: #A9A9A9;
+  background-image: url("https://imgur.com/sfnBxAo.jpg");
+  background-size: cover;
 }
 
 #ziphere {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
+  color: #ffffff;
 }
 
 #zipcode {

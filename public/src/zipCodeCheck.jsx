@@ -36,7 +36,8 @@ class ZipCheck extends React.Component {
     return (
       <div className= "zipCheckContainer">
         <input type="text" id="zipcode" size="8"/>
-        <button id="submitbutton" onClick={this.matchZips}>Do you guys deliver to me?</button><p id="ziphere"></p>
+        <button id="submitbutton" onClick={this.matchZips}>Do you guys deliver to me?</button>
+        <div id="ziphere">Enter a zip code to see if we deliver to you</div>
       </div>
     )
   }
