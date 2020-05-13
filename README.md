@@ -8,5 +8,5 @@ a lookup feature that allows customers to check if their location is within the 
 - Webpack
 - Mapbox Maps service API
 - Google Sheets API
-- [hulljs] (https://github.com/AndriiHeonia/hull)
-- [csvtojson] (https://www.npmjs.com/package/csvtojson)
+- [hulljs](https://github.com/AndriiHeonia/hull)
+- [csvtojson](https://www.npmjs.com/package/csvtojson)
