@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import mapboxgl from 'mapbox-gl';
 import config from '../../config';
+import ZipCheck from './zipCodeCheck.jsx';
 
 mapboxgl.accessToken = config.TOKEN;
 
@@ -55,7 +56,6 @@ class App extends React.Component {
     })
   }
 
-  //will have to create multiple polygons of different areas; will have to split up json or organize json to preserve the cities and draw separate polygons for cities
   createFillPolygon(map, source, geojson) {
     map.addSource(source, geojson);
     map.addLayer({
@@ -72,7 +72,10 @@ class App extends React.Component {
 
   render() {
     return (
-      <div ref={el => this.mapContainer = el} className="mapContainer" />
+      <div>
+        <div ref={el => this.mapContainer = el} className="mapContainer" />
+        <ZipCheck />
+      </div>
     )
   }
 }

@@ -61,7 +61,7 @@ const convertToGeojson = () => {
     .fromFile('./DeliveryCustomers.csv')
     .then((result => {
       if (result.length > geojson.features.length || result.length < geojson.features.length) {
-        console.log('GETTING COORDINATES OF CUSTOMERS...')
+        console.log('GETTING COORDINATES OF CUSTOMERS...');
         return getCoordinates(result);
       } else {
         return;

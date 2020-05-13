@@ -4,6 +4,8 @@
   right: 0;
   left: 0;
   bottom: 0;
+  height: 400px;
+  width: 600px;
 }
 
 /* .mapboxgl-marker {
@@ -23,4 +25,8 @@
 .mapboxgl-popup-content {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+}
+
+.zipCheckContainer {
+  position: relative;
 }

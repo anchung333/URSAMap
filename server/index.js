@@ -1,5 +1,8 @@
 const express = require('express');
 const helpers = require('../helpers/formatActualCustomers.js');
+const fs = require('fs');
+const {google} = require('googleapis');
+const config = require('../config');
 const zipCodeGeojsons = require('../countyGeojsons.json');
 let app = express();
 let port = 3000;
@@ -16,8 +19,19 @@ app.get('/api/geojson', (req, res) => {
 })
 
 app.get('/api/zipcodes', (req, res) => {
-  console.log(`[SERVER]: SENDING ZIP CODE COORDINATES`);
+  console.log('[SERVER]: SENDING ZIP CODE COORDINATES');
   res.send(zipCodeGeojsons);
+})
+
+app.get('/api/sheets', (req, res) => {
+  const sheets = google.sheets({version: 'v4', auth: config.API_KEY});
+  sheets.spreadsheets.values.get({
+    spreadsheetId: '12WJ-94lRAxMiVaVAWZIibnkHJAIA6eXUtBWjklxCfn0',
+    range: 'Sheet1!B2:B',
+  }).then((response) => {
+    console.log('[SERVER]: SENDING SPREADSHEET RESULTS');
+    res.send(response.data)
+  })
 })
 
 app.listen(port, () => console.log(`App is listening on port ${port}`));

@@ -1,2 +1,6 @@
 node_modules
 config.js
+countyGeojsons.json
+customerGeojson.json
+DeliveryCustomers.csv
+ZipCodes.csv
