@@ -4,11 +4,13 @@ const fs = require('fs');
 const {google} = require('googleapis');
 const config = require('../config');
 const zipCodeGeojsons = require('../countyGeojsons.json');
+const expressStaticGzip = require('express-static-gzip');
 let app = express();
 let port = 3000;
 
 app.use(express.json());
-app.use(express.static(__dirname + '/../public/dist'))
+// app.use(express.static(__dirname + '/../public/dist'));
+app.use('/', expressStaticGzip(__dirname + '/../public/dist'));
 
 app.get('/api/geojson', (req, res) => {
   let geojsonData = helpers.convertToGeojson();

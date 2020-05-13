@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import mapboxgl from 'mapbox-gl';
-import config from '../../config';
+import {TOKEN} from '../../config';
 import ZipCheck from './zipCodeCheck.jsx';
 
-mapboxgl.accessToken = config.TOKEN;
+mapboxgl.accessToken = TOKEN;
 
 class App extends React.Component {
   constructor(props) {

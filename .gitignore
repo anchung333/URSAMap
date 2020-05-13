@@ -1,6 +1,8 @@
 node_modules
 config.js
 public/dist/bundle.js
+public/dist/bundle.js.br
+public/dist/bundle.js.gz
 countyGeojsons.json
 customerGeojson.json
 DeliveryCustomers.csv
